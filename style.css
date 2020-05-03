@@ -1,0 +1,6 @@
+.container {
+    max-width: 40rem;
+}
+select {
+  max-width: 280px;
+}
